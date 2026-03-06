@@ -83,7 +83,7 @@ In the notebook, toggle `RUN_SAMPLE = True` to use the sample dataset provided i
 ```text
 .
 ├── data/
-│   ├── figures/             # Architectural and result visualizations
+│   ├── figures_low/         # Architectural and result visualizations
 │   ├── Full_data/           # Full dataset (labels and images)
 │   ├── Sample_data/         # Small subset for quick testing
 │   └── Shapefile/           # Census block group boundaries
